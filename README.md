@@ -1,5 +1,5 @@
 Core Data Processing Application
-A Java-based console application that processes structured CSV and JSON datasets, performs data cleaning and transformation, and generates analytical reports.
+An academic Java-based console application that processes structured CSV and JSON datasets, performs data cleaning and transformation, and generates analytical reports.
 
 Features
 1. CSV and JSON file ingestion
