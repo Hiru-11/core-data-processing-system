@@ -1,0 +1,2 @@
+transactionId,customerId,itemId,amount,quantity
+T001,C001,I001,ABC,2

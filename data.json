@@ -1,0 +1,23 @@
+[
+  {
+    "transactionId": "T001",
+    "customerId": "C001",
+    "itemId": "I001",
+    "amount": 1000,
+    "quantity": 2
+  },
+  {
+    "transactionId": "T002",
+    "customerId": "C002",
+    "itemId": "I002",
+    "amount": 2000,
+    "quantity": 1
+  },
+  {
+    "transactionId": "T003",
+    "customerId": "C003",
+    "itemId": "I003",
+    "amount": -500,
+    "quantity": 1
+  }
+]

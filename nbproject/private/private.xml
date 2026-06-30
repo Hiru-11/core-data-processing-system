@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/Record.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/IFileReader.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/CSVReader.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/JSONReader.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/DataIngestionService.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/IDataCleaner.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/DataCleaner.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/ReportGenerator.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/SalesReport.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/InventoryReport.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/CustomerReport.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/DataProcessingController.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/ShopEaseDataProcessingApplication1.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/IExportable.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/PreviewReport.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/CSVReaderTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/DataCleanerTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/DuplicateRemoverTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/ValidatorTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/DataTransformerTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/SalesReportTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/InventoryReportTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/DataProcessingControllerTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/JSONReaderTest.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/DataTransformer.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/src/shopeasedataprocessingapplication1/IReportGenerator.java</file>
+            <file>file:/C:/Users/Owner/Documents/NetBeansProjects/ShopEaseDataProcessingApplication1/test/shopeasedataprocessingapplication1/AllTests.java</file>
+        </group>
+    </open-files>
+</project-private>
